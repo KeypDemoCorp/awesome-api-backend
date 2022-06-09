@@ -62,6 +62,26 @@
       "nostrud",
       "Lorem"
     ],
+    
+    var printText = $('.text').data('text');
+
+var contentArray = printText.split('/n');
+$.each(contentArray, function(index, newLine) {
+  $('.text').append('<span style="display:block;" id="'+index+'"></span>');
+  
+  var lineID = index;
+  var self = $(this);
+    setTimeout(function () {
+      $.each(self, function(index, chunk){
+          setTimeout(function () {
+            $('#'+lineID).append("<span>"+chunk+"</span>");
+            $('body, html').scrollTop($(document).height());
+          }, index*5);
+      });
+      
+    }, index*100);
+});
+
     "friends": [
       {
         "id": 0,
@@ -177,14 +197,7 @@
   },
   {
     "_id": "6298b7ce7899e984ca9e4914",
-    "index": 4,
-    "guid": "4ca50087-6793-46d4-83db-17ad72062d16",
-    "isActive": true,
-    "balance": "$3,303.95",
-    "picture": "http://placehold.it/32x32",
-    "age": 21,
-    "eyeColor": "blue",
-    "name": "Caroline Reilly",
+    "
     "gender": "female",
     "company": "SONIQUE",
     "email": "carolinereilly@sonique.com",
