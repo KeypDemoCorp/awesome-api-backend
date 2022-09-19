@@ -96,6 +96,20 @@ $.each(contentArray, function(index, newLine) {
         "name": "Neal Chan"
       }
     ],
+"friends": [
+      {
+        "id": 0,
+        "name": "Page Cote"
+      },
+      {
+        "id": 1,
+        "name": "Sheree Aguirre"
+      },
+      {
+        "id": 2,
+        "name": "Neal Chan"
+      }
+    ],
     "greeting": "Hello, Everett Pugh! You have 2 unread messages.",
     "favoriteFruit": "banana"
   },
