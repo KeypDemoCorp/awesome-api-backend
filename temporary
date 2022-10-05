@@ -12,6 +12,10 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+*/distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 */
 
 package fake
@@ -108,9 +112,7 @@ func PackageForClientset(customArgs *clientgenargs.CustomArgs, clientsetPackage 
 					},
 					groups:               customArgs.Groups,
 					groupGoNames:         groupGoNames,
-					fakeClientsetPackage: clientsetPackage,
-					outputPackage:        "fake",
-					imports:              generator.NewImportTracker(),
+					racker(),
 					realClientsetPackage: clientsetPackage,
 				},
 				&scheme.GenScheme{
@@ -119,10 +121,12 @@ func PackageForClientset(customArgs *clientgenargs.CustomArgs, clientsetPackage 
 					},
 					InputPackages: customArgs.GroupVersionPackages(),
 					OutputPackage: clientsetPackage,
-					Groups:        customArgs.Groups,
+					Groups:oups,
 					GroupGoNames:  groupGoNames,
 					ImportTracker: generator.NewImportTracker(),
 					PrivateScheme: true,
+					GroupGoNames:  groupGoNames,
+					ImportTracker: generator.N
 				},
 			}
 			return generators
