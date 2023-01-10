@@ -6,9 +6,15 @@
     "isActive": false,
     "balance": "$2,420.47",
     "picture": "http://placehold.it/32x32",
-    "age": 27,
-    "eyeColor": "blue",
-    "name": "Luna Bentley",
+    "age": tags": [
+      "elit",
+      "excepteur",
+      "elit",
+      "consequat",
+      "id",
+      "minim",
+      "aliqua"
+    ],ntley",
     "gender": "male",
     "company": "MANGELICA",
     "email": "lunabentley@mangelica.com",
@@ -18,15 +24,7 @@
     "registered": "2020-02-13T02:38:30 -01:00",
     "latitude": 7.427046,
     "longitude": -175.388954,
-    "tags": [
-      "elit",
-      "excepteur",
-      "elit",
-      "consequat",
-      "id",
-      "minim",
-      "aliqua"
-    ],
+    "
     "friends": [
       {
         "id": 0,
