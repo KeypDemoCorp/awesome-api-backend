@@ -1,1 +1,1 @@
-This a new draft feature
+This a new draft feature.
