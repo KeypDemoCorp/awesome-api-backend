@@ -1,0 +1,1 @@
+Content for file optimize-the-pagination-controls-in-the-admin-panel.md
