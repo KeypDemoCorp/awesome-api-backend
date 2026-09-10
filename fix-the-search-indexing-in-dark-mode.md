@@ -1,0 +1,1 @@
+Content for file fix-the-search-indexing-in-dark-mode.md
