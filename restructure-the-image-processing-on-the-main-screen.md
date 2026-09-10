@@ -1,0 +1,1 @@
+Content for file restructure-the-image-processing-on-the-main-screen.md
