@@ -1,0 +1,1 @@
+Content for file localize-the-billing-webhooks-after-sign-up.md
