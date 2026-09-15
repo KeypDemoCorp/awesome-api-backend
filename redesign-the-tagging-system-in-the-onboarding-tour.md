@@ -1,0 +1,1 @@
+Content for file redesign-the-tagging-system-in-the-onboarding-tour.md
