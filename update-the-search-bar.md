@@ -1,0 +1,1 @@
+Content for file update-the-search-bar.md
