@@ -1,0 +1,1 @@
+Content for file simplify-the-team-management-in-the-onboarding-tour.md
