@@ -1,0 +1,1 @@
+Content for file cache-the-session-handling-when-offline.md
