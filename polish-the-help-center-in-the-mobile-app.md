@@ -1,0 +1,1 @@
+Content for file polish-the-help-center-in-the-mobile-app.md
