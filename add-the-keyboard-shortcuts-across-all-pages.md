@@ -1,0 +1,1 @@
+Content for file add-the-keyboard-shortcuts-across-all-pages.md
