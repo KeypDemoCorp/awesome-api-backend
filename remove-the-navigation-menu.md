@@ -1,0 +1,1 @@
+Content for file remove-the-navigation-menu.md
