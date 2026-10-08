@@ -1,0 +1,1 @@
+Content for file localize-the-status-page-on-the-main-screen.md
