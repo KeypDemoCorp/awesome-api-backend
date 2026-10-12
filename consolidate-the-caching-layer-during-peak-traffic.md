@@ -1,0 +1,1 @@
+Content for file consolidate-the-caching-layer-during-peak-traffic.md
