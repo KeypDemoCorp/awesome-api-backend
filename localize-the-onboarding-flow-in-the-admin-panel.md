@@ -1,0 +1,1 @@
+Content for file localize-the-onboarding-flow-in-the-admin-panel.md

@@ -1,0 +1,1 @@
+Content for file update-the-user-invitations-across-browsers.md
