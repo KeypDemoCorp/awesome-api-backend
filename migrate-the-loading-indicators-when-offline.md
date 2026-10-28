@@ -1,0 +1,1 @@
+Content for file migrate-the-loading-indicators-when-offline.md

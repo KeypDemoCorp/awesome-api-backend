@@ -1,0 +1,1 @@
+Content for file decouple-the-help-center-after-the-latest-release.md
