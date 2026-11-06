@@ -1,0 +1,1 @@
+Content for file harden-the-data-table-across-browsers.md
