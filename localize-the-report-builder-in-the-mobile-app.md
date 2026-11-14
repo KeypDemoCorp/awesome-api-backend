@@ -1,0 +1,1 @@
+Content for file localize-the-report-builder-in-the-mobile-app.md
