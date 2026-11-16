@@ -1,0 +1,159 @@
+dummyJSON
+Home
+Docs
+GitHub
+DummyJSON
+Get dummy/fake JSON data to use as placeholder in development or in prototype testing.
+
+View on GitHub Read Docs
+{
+  "id": 9,
+  "title": "Infinix INBOOK",
+  "description": "Infinix Inbook X1 Ci3 10th 8GB...",
+  "price": 1099,
+  "discountPercentage": 11.83,
+  "rating": 4.54,
+  "stock": 96,
+  "brand": "Infinix",
+  "category": "laptops",
+  "thumbnail": "https://dummyjson.com/image/i/products/9/thumbnail.jpg",
+  "images": [
+    "https://dummyjson.com/image/i/products/9/1.jpg",
+    "https://dummyjson.com/image/i/products/9/2.png",
+    "https://dummyjson.com/image/i/products/9/3.png",
+    "https://dummyjson.com/image/i/products/9/4.jpg",
+    "https://dummyjson.com/image/i/products/9/thumbnail.jpg"
+  ]
+}
+Infinix INBOOK — laptops
+1099$ — ★ 4.54
+Got tired of Lorem ipsum data?
+With DummyJSON, what you get is different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.
+
+Example Code
+
+fetch('https://dummyjson.com/products/1')
+.then(res => res.json())
+.then(json => console.log(json))
+            
+Try it now 😍 Copy Code
+
+{
+  💬: 🤔,
+}
+          
+
+Resources
+DummyJSON comes with different sets of common resources:
+
+Resources
+Following resources are available which you can access via our REST API.
+
+/products	100 products
+/carts	20 carts
+/users	100 users
+/posts	150 posts
+/comments	340 comments
+/quotes	100 quotes
+/todos	150 todos
+/http	Mock HTTP Code Response
+/auth	to get auth token
+Note: by default you will get 30 results and the total count, you can pass "skip" & "limit" query string to get more results.
+For example: /posts?skip=5&limit=10
+
+Routes
+All HTTP methods are supported. You can use http or https for your requests.
+
+GET	/products	// get all products
+GET	/products/1	// get single product
+GET	/products/search?q=Laptop	// search products
+GET	/products/categories	// get product categories
+GET	/products/category/smartphones	// get products of a category
+POST	/products/add	// add a product
+PUT	/products/1	// update a product
+PATCH	/products/1	// update a product
+DELETE	/products/1	// delete a product
+GET (auth)	/auth/products	// get products with auth token
+Note: see DOCS for usage examples.
+
+Inspired by JSONPlaceholder
+
+dummyJSON
+Home
+Docs
+GitHub
+DummyJSON
+Get dummy/fake JSON data to use as placeholder in development or in prototype testing.
+
+View on GitHub Read Docs
+{
+  "id": 9,
+  "title": "Infinix INBOOK",
+  "description": "Infinix Inbook X1 Ci3 10th 8GB...",
+  "price": 1099,
+  "discountPercentage": 11.83,
+  "rating": 4.54,
+  "stock": 96,
+  "brand": "Infinix",
+  "category": "laptops",
+  "thumbnail": "https://dummyjson.com/image/i/products/9/thumbnail.jpg",
+  "images": [
+    "https://dummyjson.com/image/i/products/9/1.jpg",
+    "https://dummyjson.com/image/i/products/9/2.png",
+    "https://dummyjson.com/image/i/products/9/3.png",
+    "https://dummyjson.com/image/i/products/9/4.jpg",
+    "https://dummyjson.com/image/i/products/9/thumbnail.jpg"
+  ]
+}
+Infinix INBOOK — laptops
+1099$ — ★ 4.54
+Got tired of Lorem ipsum data?
+With DummyJSON, what you get is different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.
+
+Example Code
+
+fetch('https://dummyjson.com/products/1')
+.then(res => res.json())
+.then(json => console.log(json))
+            
+Try it now 😍 Copy Code
+
+{
+  💬: 🤔,
+}
+          
+
+Resources
+DummyJSON comes with different sets of common resources:
+
+Resources
+Following resources are available which you can access via our REST API.
+
+/products	100 products
+/carts	20 carts
+/users	100 users
+/posts	150 posts
+/comments	340 comments
+/quotes	100 quotes
+/todos	150 todos
+/http	Mock HTTP Code Response
+/auth	to get auth token
+Note: by default you will get 30 results and the total count, you can pass "skip" & "limit" query string to get more results.
+For example: /posts?skip=5&limit=10
+
+Routes
+All HTTP methods are supported. You can use http or https for your requests.
+
+GET	/products	// get all products
+GET	/products/1	// get single product
+GET	/products/search?q=Laptop	// search products
+GET	/products/categories	// get product categories
+GET	/products/category/smartphones	// get products of a category
+POST	/products/add	// add a product
+PUT	/products/1	// update a product
+PATCH	/products/1	// update a product
+DELETE	/products/1	// delete a product
+GET (auth)	/auth/products	// get products with auth token
+Note: see DOCS for usage examples.
+
+Inspired by JSONPlaceholder

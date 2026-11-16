@@ -1,0 +1,1 @@
+Content for file decouple-the-status-page.md
